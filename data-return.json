@@ -1,0 +1,361 @@
+{
+    "data": [
+        {
+            "record_type": "messaging_profile_metrics",
+            "messaging_profile_id": "400189d1-6c36-4307-8111-21bc65ea33ad",
+            "phone_numbers": 1,
+            "outbound": {
+                "sent": 35,
+                "delivered": 34,
+                "errors": 0.03
+            },
+            "inbound": {
+                "received": 11
+            }
+        },
+        {
+            "record_type": "messaging_profile_metrics",
+            "messaging_profile_id": "40018dc8-7931-4e62-b20c-b33641bd01a8",
+            "phone_numbers": 1,
+            "outbound": {
+                "sent": 97,
+                "delivered": 73,
+                "errors": 0.25
+            },
+            "inbound": {
+                "received": 8
+            }
+        },
+        {
+            "record_type": "messaging_profile_metrics",
+            "messaging_profile_id": "40018d37-df70-4d2b-b8bb-7a4c82beec21",
+            "phone_numbers": 1,
+            "outbound": {
+                "sent": 1119,
+                "delivered": 865,
+                "errors": 0.23
+            },
+            "inbound": {
+                "received": 256
+            }
+        },
+        {
+            "record_type": "messaging_profile_metrics",
+            "messaging_profile_id": "40018c37-7742-4c23-9dcc-81e8770ef29d",
+            "phone_numbers": 1,
+            "outbound": {
+                "sent": 1444,
+                "delivered": 587,
+                "errors": 0.59
+            },
+            "inbound": {
+                "received": 83
+            }
+        },
+        {
+            "record_type": "messaging_profile_metrics",
+            "messaging_profile_id": "40018e45-2968-44b1-84c5-da728e649c7c",
+            "phone_numbers": 1,
+            "outbound": {
+                "sent": 476,
+                "delivered": 442,
+                "errors": 0.07
+            },
+            "inbound": {
+                "received": 134
+            }
+        },
+        {
+            "record_type": "messaging_profile_metrics",
+            "messaging_profile_id": "40018e7b-6d3c-46c2-92af-619080cba389",
+            "phone_numbers": 1,
+            "outbound": {
+                "sent": 224,
+                "delivered": 205,
+                "errors": 0.08
+            },
+            "inbound": {
+                "received": 95
+            }
+        },
+        {
+            "record_type": "messaging_profile_metrics",
+            "messaging_profile_id": "40018e45-197f-4c24-9fa4-412adb74d1ce",
+            "phone_numbers": 1,
+            "outbound": {
+                "sent": 391,
+                "delivered": 364,
+                "errors": 0.07
+            },
+            "inbound": {
+                "received": 128
+            }
+        },
+        {
+            "record_type": "messaging_profile_metrics",
+            "messaging_profile_id": "40018d38-5826-433e-896a-1369c790fc35",
+            "phone_numbers": 1,
+            "outbound": {
+                "sent": 596,
+                "delivered": 455,
+                "errors": 0.24
+            },
+            "inbound": {
+                "received": 156
+            }
+        },
+        {
+            "record_type": "messaging_profile_metrics",
+            "messaging_profile_id": "40018d38-7af9-44b7-a785-9a2c5866745c",
+            "phone_numbers": 1,
+            "outbound": {
+                "sent": 2832,
+                "delivered": 2124,
+                "errors": 0.25
+            },
+            "inbound": {
+                "received": 729
+            }
+        },
+        {
+            "record_type": "messaging_profile_metrics",
+            "messaging_profile_id": "40018c65-863c-4f7f-9b4b-c74e9dc12771",
+            "phone_numbers": 1,
+            "outbound": {
+                "sent": 2003,
+                "delivered": 1625,
+                "errors": 0.19
+            },
+            "inbound": {
+                "received": 365
+            }
+        },
+        {
+            "record_type": "messaging_profile_metrics",
+            "messaging_profile_id": "40018de7-5ac6-42bd-ba8e-b5ee2fa7646d",
+            "phone_numbers": 1,
+            "outbound": {
+                "sent": 1335,
+                "delivered": 1285,
+                "errors": 0.04
+            },
+            "inbound": {
+                "received": 513
+            }
+        },
+        {
+            "record_type": "messaging_profile_metrics",
+            "messaging_profile_id": "40018d84-fda9-4320-bdad-788be30dfb30",
+            "phone_numbers": 1,
+            "outbound": {
+                "sent": 2885,
+                "delivered": 2321,
+                "errors": 0.2
+            },
+            "inbound": {
+                "received": 759
+            }
+        },
+        {
+            "record_type": "messaging_profile_metrics",
+            "messaging_profile_id": "40018df7-44cf-4ee3-9ece-439398927a43",
+            "phone_numbers": 1,
+            "outbound": {
+                "sent": 365,
+                "delivered": 336,
+                "errors": 0.08
+            },
+            "inbound": {
+                "received": 59
+            }
+        },
+        {
+            "record_type": "messaging_profile_metrics",
+            "messaging_profile_id": "40018e44-ab67-4d01-8255-d3334bb5c887",
+            "phone_numbers": 1,
+            "outbound": {
+                "sent": 1579,
+                "delivered": 1491,
+                "errors": 0.06
+            },
+            "inbound": {
+                "received": 452
+            }
+        },
+        {
+            "record_type": "messaging_profile_metrics",
+            "messaging_profile_id": "40018d9f-dbf8-4bb5-90e8-bd364dcb6f62",
+            "phone_numbers": 1,
+            "outbound": {
+                "sent": 0,
+                "delivered": 0,
+                "errors": 0.0
+            },
+            "inbound": {
+                "received": 0
+            }
+        },
+        {
+            "record_type": "messaging_profile_metrics",
+            "messaging_profile_id": "40018d9e-a757-4272-88b1-36fcdf765b4f",
+            "phone_numbers": 1,
+            "outbound": {
+                "sent": 1007,
+                "delivered": 793,
+                "errors": 0.21
+            },
+            "inbound": {
+                "received": 230
+            }
+        },
+        {
+            "record_type": "messaging_profile_metrics",
+            "messaging_profile_id": "40018d47-44b8-459d-a53a-2ff1f5cd0a64",
+            "phone_numbers": 1,
+            "outbound": {
+                "sent": 1690,
+                "delivered": 1365,
+                "errors": 0.19
+            },
+            "inbound": {
+                "received": 344
+            }
+        },
+        {
+            "record_type": "messaging_profile_metrics",
+            "messaging_profile_id": "40018ee2-ea25-483c-a47d-ec48ba19f69a",
+            "phone_numbers": 1,
+            "outbound": {
+                "sent": 0,
+                "delivered": 0,
+                "errors": 0.0
+            },
+            "inbound": {
+                "received": 0
+            }
+        },
+        {
+            "record_type": "messaging_profile_metrics",
+            "messaging_profile_id": "40018d9e-a9f5-4824-a45c-ec1e863b3a2f",
+            "phone_numbers": 1,
+            "outbound": {
+                "sent": 19,
+                "delivered": 5,
+                "errors": 0.74
+            },
+            "inbound": {
+                "received": 1
+            }
+        },
+        {
+            "record_type": "messaging_profile_metrics",
+            "messaging_profile_id": "40018dc8-7053-4fe5-8e85-d54d98d48e56",
+            "phone_numbers": 1,
+            "outbound": {
+                "sent": 759,
+                "delivered": 541,
+                "errors": 0.29
+            },
+            "inbound": {
+                "received": 128
+            }
+        },
+        {
+            "record_type": "messaging_profile_metrics",
+            "messaging_profile_id": "40018e2e-e588-484e-93e5-2ed989da60be",
+            "phone_numbers": 1,
+            "outbound": {
+                "sent": 716,
+                "delivered": 693,
+                "errors": 0.03
+            },
+            "inbound": {
+                "received": 239
+            }
+        },
+        {
+            "record_type": "messaging_profile_metrics",
+            "messaging_profile_id": "40018d38-7209-4eaa-ac1e-c2715c18a3ce",
+            "phone_numbers": 1,
+            "outbound": {
+                "sent": 1673,
+                "delivered": 1343,
+                "errors": 0.2
+            },
+            "inbound": {
+                "received": 386
+            }
+        },
+        {
+            "record_type": "messaging_profile_metrics",
+            "messaging_profile_id": "40018e43-4524-41ae-a94f-822af597eec3",
+            "phone_numbers": 1,
+            "outbound": {
+                "sent": 1030,
+                "delivered": 987,
+                "errors": 0.04
+            },
+            "inbound": {
+                "received": 282
+            }
+        },
+        {
+            "record_type": "messaging_profile_metrics",
+            "messaging_profile_id": "40018ba7-1739-4ad2-97ac-5a8ade125a26",
+            "phone_numbers": 1,
+            "outbound": {
+                "sent": 3205,
+                "delivered": 2968,
+                "errors": 0.07
+            },
+            "inbound": {
+                "received": 1009
+            }
+        },
+        {
+            "record_type": "messaging_profile_metrics",
+            "messaging_profile_id": "40018ee2-d5d1-40c1-8674-b5eb2f6b3843",
+            "phone_numbers": 1,
+            "outbound": {
+                "sent": 0,
+                "delivered": 0,
+                "errors": 0.0
+            },
+            "inbound": {
+                "received": 0
+            }
+        },
+        {
+            "record_type": "messaging_profile_metrics",
+            "messaging_profile_id": "40018df2-76ae-4d9c-b781-5aff1458ad90",
+            "phone_numbers": 1,
+            "outbound": {
+                "sent": 1806,
+                "delivered": 1710,
+                "errors": 0.05
+            },
+            "inbound": {
+                "received": 459
+            }
+        },
+        {
+            "record_type": "messaging_profile_metrics",
+            "messaging_profile_id": "40018ec5-0a6d-40a9-8466-3decfe094a3a",
+            "phone_numbers": 1,
+            "outbound": {
+                "sent": 71,
+                "delivered": 64,
+                "errors": 0.1
+            },
+            "inbound": {
+                "received": 18
+            }
+        }
+    ],
+    "meta": {
+        "total_pages": 1,
+        "total_results": 27,
+        "page_number": 1,
+        "page_size": 27
+    }
+}
